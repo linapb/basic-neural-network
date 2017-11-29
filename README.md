@@ -1,2 +1,1 @@
-# Project
-Neural Network
+Basic One layer Neural Network.
